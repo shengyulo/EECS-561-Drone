@@ -1,6 +1,9 @@
 # EECS-561-Drone
 Drone Project
 
+## Matlab Version
++ Matlab version is prefered of `2018b` or later.
+
 ## Install Matlab package
 + Aerospace Blockset
 + Optimization Toolbox
